@@ -1,0 +1,6 @@
+{
+  "name": "Agri-Intelligence System",
+  "description": "A professional AI-powered agricultural breeding intelligence dashboard and chat assistant with live data visualization, telemetry highlights and real-time research query responses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
